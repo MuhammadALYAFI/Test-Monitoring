@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export top 1000</name>
+   <tag></tag>
+   <elementGuidId>a8870de5-5b0c-4640-b861-779ad5e7897e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.p-element.menuItem.mat-menu-item.ng-tns-c111-271.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.menuItemText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-268']/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e04108db-d814-4f63-b46e-9ee8b773c67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menuItemText</value>
+      <webElementGuid>e64a099f-0096-4758-b74a-35002f93cdf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export top 1000</value>
+      <webElementGuid>2e9ef82f-a05d-4766-ba46-25159c2eaa60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-268&quot;)/div[@class=&quot;mat-menu-content ng-tns-c111-271&quot;]/button[@class=&quot;mat-focus-indicator p-element menuItem mat-menu-item ng-tns-c111-271 ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;menuItemText&quot;]</value>
+      <webElementGuid>6e0e021b-fc8b-49fe-979e-fe04dbee9957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-268']/div/button[2]/span</value>
+      <webElementGuid>6a8a30bb-b799-4d0c-9383-7f6512fdd588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export current page'])[1]/following::span[1]</value>
+      <webElementGuid>82432a3b-c178-489f-b1ca-ab9b2fdcbcf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[5]</value>
+      <webElementGuid>73e2abed-0358-4b5f-a78b-266b59873d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export top 1000']/parent::*</value>
+      <webElementGuid>9355bcdc-ff37-47b4-b5ad-4b2afee4e579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[2]/span</value>
+      <webElementGuid>54d2865b-6975-4bc6-9d4d-a7406d141a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Export top 1000' or . = 'Export top 1000')]</value>
+      <webElementGuid>f36ec01c-70f6-49c8-ba39-427181fc9d73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Close_cdk-overlay-backdrop cdk-overlay-_294139</name>
+   <tag></tag>
+   <elementGuidId>10ffbbed-8977-42e8-a408-eabb46d7a083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd1c7e40-f304-4fc2-a61d-139417301bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>9a61362b-decc-493e-bf80-a91f0eb9ce60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ms-Fabric--isFocusHidden&quot;]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>7feb5ad9-5e40-44da-a14d-17a917242590</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[4]/div</value>
+      <webElementGuid>3bae7699-0c26-40aa-8378-95664bd9ac1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Export to CSV_madrid-icon icon-chevron-_06f5d6</name>
+   <tag></tag>
+   <elementGuidId>e7b3db98-7461-45a1-bcf1-7cda187cbb6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.split-menu > div.madrid-icon.icon-chevron-down.icon-size-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/app-adf-monitoring-main/div/div/app-pipeline-run/div/div[2]/app-pill-filter-panel-v2/div/div[2]/app-split-button/div/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b013ff8-85ad-4239-88a3-6fd1a8d5ec80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>madrid-icon icon-chevron-down icon-size-16</value>
+      <webElementGuid>f7accb5a-d6a7-4015-bba2-27bbb4f5c54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-adf-monitoring-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-container new-layout&quot;]/div[@class=&quot;monitoringContainer&quot;]/app-pipeline-run[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/app-pill-filter-panel-v2[1]/div[@class=&quot;pill-filter-container&quot;]/div[@class=&quot;monitorPanelButton&quot;]/app-split-button[@class=&quot;p-element export-button buttonContainer madrid-button&quot;]/div[@class=&quot;split-container&quot;]/button[@class=&quot;mat-menu-trigger madrid-button&quot;]/div[@class=&quot;split-menu&quot;]/div[@class=&quot;madrid-icon icon-chevron-down icon-size-16&quot;]</value>
+      <webElementGuid>f187a1aa-3638-4d53-b585-e9d8e632faf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/app-adf-monitoring-main/div/div/app-pipeline-run/div/div[2]/app-pill-filter-panel-v2/div/div[2]/app-split-button/div/button/div/div</value>
+      <webElementGuid>6debea2a-ad8f-4413-af74-b8e0fd140462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-split-button/div/button/div/div</value>
+      <webElementGuid>71044cd7-987e-44f9-b780-b0eccaf93976</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

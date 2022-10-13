@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__inputIconRight madrid-icon icon-size-1_66120a</name>
+   <tag></tag>
+   <elementGuidId>e4218375-795b-4eae-bfa0-e47af4396dd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;Name Dropdown currently selected  required&quot;] > div.select-input-container > div.inputIconRight.madrid-icon.icon-size-12.icon-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/app-datafactory-entry/div/div/app-select-datafactory/div/app-data-factory-select/app-dropdown[2]/app-dropdown-container/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7d71af1-7a83-45d7-967e-02fc6eae7a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputIconRight madrid-icon icon-size-12 icon-chevron-down</value>
+      <webElementGuid>00f27678-cf3d-45d6-868d-4411be199654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-datafactory-entry[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;entry-container&quot;]/div[@class=&quot;background-image&quot;]/app-select-datafactory[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;new-entry-container ng-star-inserted&quot;]/app-data-factory-select[@class=&quot;ng-star-inserted&quot;]/app-dropdown[@class=&quot;datafactory-select&quot;]/app-dropdown-container[1]/div[@class=&quot;vertical-container fix-asterisk-style&quot;]/div[@class=&quot;input-vertical-container&quot;]/div[@class=&quot;input-vertical-above&quot;]/div[@class=&quot;input-wrapper-with-error&quot;]/div[@class=&quot;input-wrapper-inner&quot;]/div[@class=&quot;select-main input-vertical-select ng-star-inserted&quot;]/div[@class=&quot;select-input-container&quot;]/div[@class=&quot;inputIconRight madrid-icon icon-size-12 icon-chevron-down&quot;]</value>
+      <webElementGuid>e6b20ef4-3036-4029-b102-2a71759d7136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/app-datafactory-entry/div/div/app-select-datafactory/div/app-data-factory-select/app-dropdown[2]/app-dropdown-container/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>d94518e4-4601-47ea-ac06-79b925606d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dropdown[2]/app-dropdown-container/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>08caec75-956f-4bd7-a797-41febc6f9702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
